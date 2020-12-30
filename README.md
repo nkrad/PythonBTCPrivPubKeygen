@@ -10,3 +10,6 @@ In applications that an individual wants to generate a Bitcoin address on the fl
 
 # Future Plans
 Add functionality to generate the matching public address, in the case a user wants to actually use this wallet.
+
+# Requires
+Base58 (pip install base58)
