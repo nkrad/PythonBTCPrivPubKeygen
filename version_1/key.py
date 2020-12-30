@@ -7,7 +7,6 @@ privateKeyByte = binascii.hexlify(os.urandom(32))
 
 privateKey = str(privateKeyByte)[2:-1] 
 
-print(type(privateKey))
 print("Your private key is:                            " + privateKey)
 
 extendedPrivateKey = ("80" + privateKey)
