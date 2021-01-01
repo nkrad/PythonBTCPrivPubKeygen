@@ -12,8 +12,7 @@ keygen.py runs once, while keygenloop.py allows user input to dictate the amount
 
 vanitykeygen.py generates addresses until a specified prefix in a generated address is found. 
 
-# Use cases
-In applications that an individual wants to generate a Bitcoin address on the fly, completely random (uses urandom) while not requiring a network connection.
+I'd reccomend using the newest version (currently version_3)
 
 # Requires
 Base58 (pip install base58)
