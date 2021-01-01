@@ -8,7 +8,9 @@ Develop a client-side Bitcoin wallet address generator.
 # Usage
 Install required packages and run either in CMD or by opening either of the .py files.
 
-keygen.py runs once, while keygenloop.py allows user input to dictate the amount of addresses to generate. vanitykeygen.py generates addresses until a specified prefix in a generated address is found. 
+keygen.py runs once, while keygenloop.py allows user input to dictate the amount of addresses to generate. 
+
+vanitykeygen.py generates addresses until a specified prefix in a generated address is found. 
 
 # Use cases
 In applications that an individual wants to generate a Bitcoin address on the fly, completely random (uses urandom) while not requiring a network connection.
