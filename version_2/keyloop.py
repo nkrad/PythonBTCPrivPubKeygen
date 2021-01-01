@@ -21,7 +21,7 @@ for x in range(keyPairCount):
     encodedKey = bytes.fromhex(finalPrivateKey)
     wifKey = base58.b58encode(encodedKey)
     wifKeyString = str(wifKey)[2:-1]
-    print("\nYour final private key in WIF is:               " + wifKeyString)
+    print("Your private key in WIF is:                     " + wifKeyString)
     publicKey = privtopub(privateKey)
     btcAddress = pubtoaddr(publicKey)
     print ("Your Bitcoin address is:                        " + btcAddress)
