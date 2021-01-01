@@ -13,9 +13,6 @@ keys.py runs once, while keyloop.py allows user input to dictate the amount of t
 # Use cases
 In applications that an individual wants to generate a Bitcoin address on the fly, completely random (uses urandom) while not requiring a network connection.
 
-# Future Plans
-Add functionality to generate the matching public address, in the case a user wants to actually use this wallet.
-
 # Requires
 Base58 (pip install base58)
 
