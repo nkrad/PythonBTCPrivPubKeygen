@@ -1,4 +1,4 @@
-# PythonBTCPrivPubKeygen
+# Python Bitcoin Private/Public Keygen
 Bitcoin Private/Public Key Generator
 ![Console Output](https://siasky.net/IAAUVxMPHmQjyubF8sGpRuoSQFg0bpKqxgB83quECbESmQ)
 
