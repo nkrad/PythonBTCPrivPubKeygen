@@ -13,3 +13,4 @@ Add functionality to generate the matching public address, in the case a user wa
 
 # Requires
 Base58 (pip install base58)
+Bitcoin (pip install bitcoin)
