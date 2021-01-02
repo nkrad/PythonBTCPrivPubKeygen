@@ -12,7 +12,7 @@ keygen.py runs once, while keygenloop.py allows user input to dictate the amount
 
 vanitykeygen.py generates addresses until a specified prefix in a generated address is found. 
 
-I'd reccomend using the newest version (currently version_3)
+I'd reccomend using the newest version (currently version_4)
 
 # Requires
 Base58 (pip install base58)
