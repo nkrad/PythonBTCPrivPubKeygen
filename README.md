@@ -6,7 +6,7 @@ Bitcoin Private/Public Key Generator
 Develop a client-side Bitcoin wallet address generator.
 
 # Usage
-Install required packages and run either in CMD or by opening either of the .py files.
+Install required packages and run either in a terminal or by opening either of the .py files.
 
 keygen.py runs once, while keygenloop.py allows user input to dictate the amount of addresses to generate. 
 
